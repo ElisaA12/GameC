@@ -1,2 +1,1 @@
-"# GameC" 
-"# GameC" 
+Gioco in linguaggio c.
